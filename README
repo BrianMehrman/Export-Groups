@@ -1,0 +1,7 @@
+README for ExportGroups v1.0
+
+This is the README file for ExportGroups. This export tool was built by Brian Mehrman. This package contains all the necessary files to run this tool in CS4 or CS5. Follow the instalation instructions below.
+
+INSTALL
+
+To install these files copy the contents of the zip file to the plugins/panels folder of your Photoshop application. Then start Photoshop, the tool will be found in the Window->Extenions sub-menu.
